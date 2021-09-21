@@ -1,0 +1,3 @@
+[submodule "DevopsMaster"]
+	path = DevopsMaster
+	url = https://github.com/KandasamyMurugan/DevopsMaster.git
